@@ -1,7 +1,5 @@
 ﻿# 🌐 English-Vietnamese Machine Translation
 
-<div align="center">
-
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/Transformers-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://github.com/huggingface/transformers)
@@ -443,8 +441,4 @@ Feed-Forward Network (FFN)
 
 ---
 
-<div align="center">
-
 ### ⭐ If this project helps you, please give it a **star**! ⭐
-
-</div>
